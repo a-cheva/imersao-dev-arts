@@ -30,9 +30,8 @@ Os dados das obras são carregados a partir do arquivo `data.json`.
     ```bash
     cd imersao-dev-arts
     ```
-3.  **Abra no Navegador:**
-    Basta abrir o arquivo **`index.html`** diretamente no seu navegador. (Recomendado: Clique com o botão direito no `index.html` > Abrir com > Seu Navegador).
-
+3.  ** para executar o projeto:**
+ código do comando: node server.js
 ## 📊 Estrutura dos Dados (`data.json`)
 
 O projeto utiliza um arquivo JSON para estruturar as informações de cada obra. Cada objeto contém os seguintes campos:
