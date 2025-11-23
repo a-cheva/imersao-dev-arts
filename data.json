@@ -1,0 +1,101 @@
+[
+    {
+        "nome": "Billy e a Pepa",
+        "técnica": "Acrílica sobre tela",
+        "ano": "2025",
+        "tamanho": "125x80 cm",
+        "categoria": "Original",
+        "imagem": "images/billy_e_a_pepa.jpg",
+        "link": "https://www.instagram.com/p/DRZvx64jf5j/?img_index=1"
+    },
+    {
+        "nome": "Florescer em Meio ao Caos",
+        "técnica": "Acrílica sobre tela e folhas de ouro",
+        "ano": "2025",
+        "tamanho": "125x80 cm",
+        "categoria": "Releitura",
+        "imagem": "images/florescer_em_meio_ao_caos.jpg",
+        "link": "https://www.instagram.com/p/DJXp5aIt1og/"
+    },
+    {
+        "nome": "Leão Majestoso",
+        "técnica": "Acrílica sobre tela",
+        "ano": "2025",
+        "tamanho": "80x80 cm",
+        "categoria": "Original",
+        "imagem": "images/leao_majestoso.jpg",
+        "link": "https://www.instagram.com/p/DRZruGjjVkS/"
+    },
+    {
+        "nome": "Arcanjo São Miguel",
+        "técnica": "Acrílica sobre tela",
+        "ano": "2025",
+        "tamanho": "125x80 cm",
+        "categoria": "Releitura",
+        "imagem": "images/arcanjo_sao_miguel.jpg",
+        "link": "https://www.instagram.com/p/DRZsLFRjZqF/"
+    },
+    {
+        "nome": "O Gato Roxo",
+        "técnica": "Acrílica sobre tela",
+        "ano": "2024",
+        "tamanho": "60x40 cm",
+        "categoria": "Original",
+        "imagem": "images/o_gato_roxo.jpg",
+        "link": "https://www.instagram.com/p/C_BJ8y2C3W6/?img_index=1"
+    },
+    {
+        "nome": "O Gatonauta",
+        "técnica": "Acrílica sobre tela",
+        "ano": "2024",
+        "tamanho": "50x40 cm",
+        "categoria": "Releitura",
+        "imagem": "images/o_gatonauta.jpg",
+        "link": "https://www.instagram.com/p/C2tY7TsOSsS/"
+    },
+    {
+        "nome": "Flor e o Beija-Flor",
+        "técnica": "Acrílica sobre tela",
+        "ano": "2023",
+        "tamanho": "120x80 cm",
+        "categoria": "Releitura do artista Valdonês Ribeiro",
+        "imagem": "images/flor_e_o_beija-flor.jpg",
+        "link": "https://www.instagram.com/p/Cw5wR8jutyg/"
+    },
+    {
+        "nome": "O Leão",
+        "técnica": "Acrílica sobre tela e folhas de ouro",
+        "ano": "2023",
+        "tamanho": "70x70 cm",
+        "categoria": "Original",
+        "imagem": "images/o_leao.jpg",
+        "link": "https://www.instagram.com/p/CyUDDwqu2gZ/"
+    },
+    {
+        "nome": "Nossa Senhora",
+        "técnica": "Óleo sobre tela e folhas de ouro",
+        "ano": "2023",
+        "tamanho": "70x50 cm",
+        "categoria": "Releitura",
+        "imagem": "images/nossa_senhora.jpg",
+        "link": "https://www.instagram.com/p/CzRVDlhrwCe/"
+    },
+    {
+        "nome": "The Wine",
+        "técnica": "Óleo sobre tela",
+        "ano": "2023",
+        "tamanho": "70x50 cm",
+        "categoria": "Releitura",
+        "imagem": "images/the_wine.jpg",
+        "link": "https://www.instagram.com/p/DRZsnLBjVyw/"
+    },
+    {
+        "nome": "You and I",
+        "técnica": "Acrílica sobre tela",
+        "ano": "2023",
+        "tamanho": "80x80 cm",
+        "categoria": "Releitura",
+        "imagem": "images/you_and_i.jpg",
+        "link": "https://www.instagram.com/p/DRZtNJKDbHg/"
+    }
+]
