@@ -242,3 +242,4 @@ document.addEventListener('DOMContentLoaded', () => {
     if (input) input.addEventListener('keydown', (e) => { if (e.key === 'Enter') iniciarBusca(); });
     iniciarBusca();
 });
+
