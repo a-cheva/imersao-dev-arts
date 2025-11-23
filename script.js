@@ -23,7 +23,9 @@ async function iniciarBusca() {
             return (item.nome || '').toLowerCase().includes(query) ||
                 (item['técnica'] || '').toLowerCase().includes(query) ||
                 (item.ano || '').toString().toLowerCase().includes(query) ||
-                (item.categoria || '').toLowerCase().includes(query);
+                (item.categoria || '').toLowerCase().includes(query) ||
+                (item.contato || '').toLowerCase().includes(query) // Aqui você já incluiu o contato na busca, o que é ótimo!
+                ;
         });
     }
 
@@ -123,6 +125,14 @@ function openDrawer(item) {
         modalDetails.appendChild(p);
     }
 
+    // NOVO: Adiciona a frase de contato ao modal
+    if (item.contato) {
+        const contactP = document.createElement('p');
+        contactP.innerHTML = '<strong>' + item.contato + '</strong>';
+        modalDetails.appendChild(contactP);
+    }
+    // FIM NOVO
+
     if (item.link) {
         modalLink.href = item.link;
         // ensure the link node is present in the details container
@@ -202,6 +212,15 @@ function renderizarCards(items) {
                 p.innerHTML = '<strong>Categoria:</strong> ' + item.categoria;
                 article.appendChild(p);
             }
+
+            // NOVO: Adiciona a frase de contato ao card expandido
+            if (item.contato) {
+                const contactP = document.createElement('p');
+                contactP.innerHTML = '<strong>' + item.contato + '</strong>';
+                article.appendChild(contactP);
+            }
+            // FIM NOVO
+
             if (item.link) {
                 const a = document.createElement('a');
                 a.href = item.link;
