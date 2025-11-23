@@ -24,11 +24,11 @@ Os dados das obras são carregados a partir do arquivo `data.json`.
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [Link do seu repositório]
+    git clone [(https://github.com/a-cheva/imersao-dev-art)]
     ```
 2.  **Navegue até a Pasta:**
     ```bash
-    cd [Nome da sua pasta]
+    cd [imersao-dev-art]
     ```
 3.  **Abra no Navegador:**
     Basta abrir o arquivo **`index.html`** diretamente no seu navegador. (Recomendado: Clique com o botão direito no `index.html` > Abrir com > Seu Navegador).
