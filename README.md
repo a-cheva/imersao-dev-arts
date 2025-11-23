@@ -32,6 +32,8 @@ Os dados das obras são carregados a partir do arquivo `data.json`.
     ```
 3.  ** para executar o projeto:**
  código do comando: node server.js
+4. **Abra o navegador**
+   abra essa url http://localhost:8000
 ## 📊 Estrutura dos Dados (`data.json`)
 
 O projeto utiliza um arquivo JSON para estruturar as informações de cada obra. Cada objeto contém os seguintes campos:
