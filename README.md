@@ -23,17 +23,21 @@ Os dados das obras são carregados a partir do arquivo `data.json`.
 ## 🚀 Como Visualizar/Executar
 
 1.  **Clone o Repositório:**
-    ```bash
+    
     git clone https://github.com/a-cheva/imersao-dev-arts
-    ```
+
 2.  **Navegue até a Pasta:**
-    ```bash
+    
     cd imersao-dev-arts
-    ```
-3.  ** para executar o projeto:**
+    
+3.  **Para executar o projeto:**
+    
+    cd imersao-dev-arts
+    
  código do comando: node server.js
+ 
 4. **Abra o navegador**
-   abra essa url http://localhost:8000
+   Abra essa url http://localhost:8000
 ## 📊 Estrutura dos Dados (`data.json`)
 
 O projeto utiliza um arquivo JSON para estruturar as informações de cada obra. Cada objeto contém os seguintes campos:
