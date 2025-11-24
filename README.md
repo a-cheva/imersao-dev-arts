@@ -21,6 +21,7 @@ Os dados das obras são carregados a partir do arquivo `data.json`.
 * **JavaScript (Vanilla JS):** Lógica de carregamento de dados (`data.json`), renderização dos cards e funcionalidades de busca/modal.
 
 ## 🚀 Como Visualizar/Executar
+link do site: https://a-cheva.github.io/imersao-dev-arts/
 
 1.  **Clone o Repositório:**
     
